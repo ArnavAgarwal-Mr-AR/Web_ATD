@@ -1,0 +1,42 @@
+1. ANN
+    Training Accuracy: 0.9308851828094933
+    Validation Accuracy: 0.8361858190709046
+    Testing Accuracy: 0.8414872798434442
+    Training Time: 21.80774235725403 seconds
+
+2. 1D-CNN
+    Training Accuracy: 0.9012187299550994
+    Validation Accuracy: 0.8178484107579462
+    Testing Accuracy: 0.8091976516634051
+    Training Time: 41.930458068847656 seconds
+
+3. RNN
+    Training Accuracy: 0.8348300192431045
+    Validation Accuracy: 0.7249388753056235
+    Testing Accuracy: 0.6986301369863014
+    Training Time: 187.02800226211548 seconds
+
+4. Bi-RNN
+    Training Accuracy: 0.8527902501603593
+    Validation Accuracy: 0.7237163814180929
+    Testing Accuracy: 0.7025440313111546
+    Training Time: 337.81806445121765 seconds
+
+5. LSTM
+    Training Accuracy: 0.8463758819756254
+    Validation Accuracy: 0.7298288508557457
+    Testing Accuracy: 0.7162426614481409
+    raining Time: 205.29429531097412 seconds
+
+6. GRU
+    Training Accuracy: 0.86241180243746
+    Validation Accuracy: 0.7885085574572127
+    Testing Accuracy: 0.7827788649706457
+    Training Time: 205.6405794620514 seconds
+
+7. Siamese Networks
+    Training Accuracy: 0.8423669018601668
+    Validation Accuracy: 0.8667481662591687
+    Testing Accuracy: 0.8590998043052838
+    Training Time: 42.41857576370239 seconds
+    

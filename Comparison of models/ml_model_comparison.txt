@@ -1,0 +1,66 @@
+1. Normal Logistic Regression
+    Training Accuracy: 0.7513000917711838
+    Validation Accuracy: 0.7420537897310513
+    Testing Accuracy: 0.7475538160469667
+    Training Time: 0.15433502197265625 seconds
+
+2. Gridsearched Logistic Regression
+    Training Accuracy: 0.7448761089018048
+    Validation Accuracy: 0.7298288508557457
+    Testing Accuracy: 0.7397260273972602
+    Training Time: 2.5525755882263184 seconds
+
+3. Normal Decision Tree
+    Training Accuracy: 1.0
+    Validation Accuracy: 0.8520782396088019
+    Testing Accuracy: 0.8336594911937377
+    Training Time: 0.0442047119140625 seconds
+
+4. Gridsearched Decision Tree
+    Training Accuracy: 1.0
+    Validation Accuracy: 0.8520782396088019
+    Testing Accuracy: 0.8336594911937377
+    Training Time: 5.385814905166626 seconds
+
+5. Normal Random Forest
+    Training Accuracy: 1.0
+    Validation Accuracy: 0.8985330073349633
+    Testing Accuracy: 0.8894324853228963
+    Training Time: 1.2181451320648193 seconds
+
+6. Gridsearched Random Forest  
+    Training Accuracy: 0.9990822881615172
+    Validation Accuracy: 0.8899755501222494
+    Testing Accuracy: 0.8923679060665362
+    Training Time: 235.29354310035706 seconds
+
+7. Normal SVM
+    Training Accuracy: 0.8418476598348119
+    Validation Accuracy: 0.784841075794621
+    Testing Accuracy: 0.8062622309197651
+    Training Time: 1.5338962078094482 seconds
+
+8. Gridsearched SVM
+    Training Accuracy: 0.8966044661976139
+    Validation Accuracy: 0.823960880195599
+    Testing Accuracy: 0.8297455968688845
+    Training Time: 30.32210397720337 seconds
+
+9. Naive Bayes
+    Training Accuracy: 0.36555521566228205
+    Validation Accuracy: 0.34596577017114916
+    Testing Accuracy: 0.363013698630137
+    Training Time: 0.004193305969238281 seconds
+
+10. Normal KNN
+    Training Accuracy: 0.906087488528602
+    Validation Accuracy: 0.8117359413202934
+    Testing Accuracy: 0.8160469667318982
+    Training Time: 0.0037262439727783203 seconds
+
+11. Gridsearched KNN
+    Training Accuracy: 1.0
+    Validation Accuracy: 0.8471882640586798
+    Testing Accuracy: 0.8326810176125244
+    Training Time: 2.2134649753570557 seconds
+ 

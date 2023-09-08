@@ -1,0 +1,35 @@
+1. DecisionTree Normal and RandomForest Normal by Hard Voting
+    Training Accuracy: 1.0
+    Validation Accuracy: 0.9242053789731052
+    Testing Accuracy: 0.9119373776908023
+    Training Time: 0.8679261207580566 seconds
+
+2. DecisionTree Normal and RandomForest Normal by Adaboost
+    Training Accuracy: 1.0
+    Validation Accuracy: 0.8581907090464548
+    Testing Accuracy: 0.8268101761252447
+    Training Time: 0.05215573310852051 seconds
+
+3. DecisionTree Normal and RandomForest Normal by Stacking
+    Training Accuracy: 0.9535026001835424
+    Validation Accuracy: 1.0
+    Testing Accuracy: 0.9393346379647749
+    Training Time: 0.585381269454956 seconds
+
+4. Gridsearched KNN and Gridsearched RandomForest by HARD Voting method
+    Training Accuracy: 1.0
+    Validation Accuracy: 0.9070904645476773
+    Testing Accuracy: 0.898238747553816
+    Training Time: 2.2024433612823486 seconds
+
+5. Gridsearched KNN and Gridsearched RandomForest by Adaboost
+    Training Accuracy: 1.0
+    Validation Accuracy: 0.8985330073349633
+    Testing Accuracy: 0.8943248532289628
+    Training Time: 1.860018014907837 seconds
+
+6. Gridsearched KNN and Gridsearched RandomForest by Stacking
+    Training Accuracy: 1.0
+    Validation Accuracy: 0.9119804400977995
+    Testing Accuracy: 0.9001956947162426
+    Training Time: 10.94957423210144 seconds
